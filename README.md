@@ -1,7 +1,7 @@
 {
 
-  "عکس": "https://s4.uupload.ir/files/save_۲۰۲۱۰۷۲۸_۰۳۵۳۲۱_e8tm.jpg",
+  "عکس": "https://s4.uupload.ir/files/img_20210924_220755_333_3cn.jpg",
 
-  "لینک": "https://uupload.ir/"
+  "لینک": "http://Vitrinwb.com"
 
 }
